@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".upeResultados"
+    android:padding="10dp"
+    >
+    <TableRow android:background="@color/primaryDarkColor"
+        >
+        <TextView android:text="Equipo"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="0"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="Fecha"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="1"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="Vict."
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="2"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="Derr."
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="3"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="Ptos"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="4"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+    </TableRow>
+    <TableRow>
+        <TextView android:text="EG"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="0"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="10/09/2020"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="1"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="10."
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="2"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="2"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="3"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="8"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="4"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+    </TableRow>
+    <TableRow>
+        <TextView android:text="ENIGMA"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="0"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="10/09/2020"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="1"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="8"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="2"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="4"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="3"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+        <TextView android:text="4"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:layout_column="4"
+            android:textColor="@color/secondaryColor">
+
+        </TextView>
+    </TableRow>
+</TableLayout>

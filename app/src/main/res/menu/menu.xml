@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_registro"
+        android:title="Registro"
+        android:id="@+id/icon_registro"
+        app:showAsAction="always"></item>
+    <item
+        android:icon="@drawable/ic_resultado"
+        android:title="Resultado"
+        android:id="@+id/icon_resultado"
+        app:showAsAction="always"></item>
+    <item
+        android:icon="@drawable/ic_equipo"
+        android:title="Equipo"
+        android:id="@+id/icon_equipo"
+        app:showAsAction="always"></item>
+</menu>
